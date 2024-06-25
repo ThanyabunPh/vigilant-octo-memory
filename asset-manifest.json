@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/vigilant-octo-memory/static/css/main.f855e6bc.css",
-    "main.js": "/vigilant-octo-memory/static/js/main.9f547988.js",
+    "main.css": "/vigilant-octo-memory/static/css/main.f80652da.css",
+    "main.js": "/vigilant-octo-memory/static/js/main.da0540c0.js",
     "static/js/453.ed3810f9.chunk.js": "/vigilant-octo-memory/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/vigilant-octo-memory/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vigilant-octo-memory/index.html",
-    "main.f855e6bc.css.map": "/vigilant-octo-memory/static/css/main.f855e6bc.css.map",
-    "main.9f547988.js.map": "/vigilant-octo-memory/static/js/main.9f547988.js.map",
+    "main.f80652da.css.map": "/vigilant-octo-memory/static/css/main.f80652da.css.map",
+    "main.da0540c0.js.map": "/vigilant-octo-memory/static/js/main.da0540c0.js.map",
     "453.ed3810f9.chunk.js.map": "/vigilant-octo-memory/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9f547988.js"
+    "static/css/main.f80652da.css",
+    "static/js/main.da0540c0.js"
   ]
 }
