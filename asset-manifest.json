@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vigilant-octo-memory/static/css/main.aa8cdddc.css",
-    "main.js": "/vigilant-octo-memory/static/js/main.f592980b.js",
+    "main.js": "/vigilant-octo-memory/static/js/main.99393b6a.js",
     "static/js/453.ed3810f9.chunk.js": "/vigilant-octo-memory/static/js/453.ed3810f9.chunk.js",
     "index.html": "/vigilant-octo-memory/index.html",
     "main.aa8cdddc.css.map": "/vigilant-octo-memory/static/css/main.aa8cdddc.css.map",
-    "main.f592980b.js.map": "/vigilant-octo-memory/static/js/main.f592980b.js.map",
+    "main.99393b6a.js.map": "/vigilant-octo-memory/static/js/main.99393b6a.js.map",
     "453.ed3810f9.chunk.js.map": "/vigilant-octo-memory/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa8cdddc.css",
-    "static/js/main.f592980b.js"
+    "static/js/main.99393b6a.js"
   ]
 }
