@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vigilant-octo-memory/static/css/main.36425e70.css",
-    "main.js": "/vigilant-octo-memory/static/js/main.2781dc88.js",
+    "main.js": "/vigilant-octo-memory/static/js/main.650dfbe1.js",
     "static/js/453.68693753.chunk.js": "/vigilant-octo-memory/static/js/453.68693753.chunk.js",
     "static/media/SAM.mp3": "/vigilant-octo-memory/static/media/SAM.221367368bda3b51e8d3.mp3",
     "static/media/profile.jpg": "/vigilant-octo-memory/static/media/profile.87ea7f1c9dd86784d173.jpg",
@@ -9,11 +9,11 @@
     "static/media/pop.mp3": "/vigilant-octo-memory/static/media/pop.c342449634d5fc6c5d45.mp3",
     "index.html": "/vigilant-octo-memory/index.html",
     "main.36425e70.css.map": "/vigilant-octo-memory/static/css/main.36425e70.css.map",
-    "main.2781dc88.js.map": "/vigilant-octo-memory/static/js/main.2781dc88.js.map",
+    "main.650dfbe1.js.map": "/vigilant-octo-memory/static/js/main.650dfbe1.js.map",
     "453.68693753.chunk.js.map": "/vigilant-octo-memory/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36425e70.css",
-    "static/js/main.2781dc88.js"
+    "static/js/main.650dfbe1.js"
   ]
 }
